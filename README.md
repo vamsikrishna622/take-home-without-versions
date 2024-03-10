@@ -1,8 +1,8 @@
 ##this code is without maintaining the code versions in number
 
-editor api 
 
 
+##editor api 
 
 Creating a document → User creates the first draft version of the document.
 
@@ -45,10 +45,7 @@ curl http://localhost:3000/all-versions
 
 
 
-content serving api 
-
-
-
+##content serving api 
 
 
 Content Serving API
