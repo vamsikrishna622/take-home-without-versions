@@ -1,4 +1,4 @@
-## this code is without maintaining the code versions in number, it will chnage the same document 
+## this code is without maintaining the code versions in number, it will change the same document 
 
 
 
